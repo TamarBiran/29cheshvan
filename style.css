@@ -1,0 +1,76 @@
+#logo{
+    margin-top: 15px;
+    color: gray;
+    text-align: right;
+    margin-right: 250px;
+}
+.t{
+    text-align: right;
+    color: whitesmoke;
+    text-decoration: none
+}
+.t:hover{
+    background: black;
+}
+#header{
+    background-image: url(image/banner-blk.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    border: transparent;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-attachment: fixed;
+
+}
+#header h1{
+    color: white;
+    text-align: center;
+}
+
+#header h2{
+    color: white;
+    background-color: black;
+    background-size: auto;
+    margin-right: 41%;
+    margin-left: 41%;
+    font-size: 15px;
+}
+#right{
+    text-align: center;
+    background: silver;
+    margin-left: 60%;
+    margin-right: 20%;
+}
+#right li:hover{
+   background-color: grey ;
+}
+#href1{
+    background-color: rgba(0, 0, 0, 0.527);
+    height: 50px;
+    margin-top: 0px;
+    position : sticky; 
+}
+#t1{
+    text-align: left;
+    direction: ltr;
+    margin-left: 80px;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+}
+#center{
+    text-align: right;
+    background: rgb(146, 180, 241);
+    margin-left: 20%;
+    margin-right: 41%;
+    position: relative;
+    top: -436px;
+
+    
+   
+}
+
+
+
